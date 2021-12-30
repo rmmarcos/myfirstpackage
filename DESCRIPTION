@@ -12,3 +12,7 @@ LazyData: true
 RoxygenNote: 7.1.2
 URL: https://github.com/rmmarcos/myfirstpackage
 BugReports: https://github.com/rmmarcos/myfirstpackage/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
