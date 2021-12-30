@@ -12,7 +12,7 @@ ndvi(red, nir)
 \item{nir}{value or vector with reflectance in the NIR wavelenght}
 }
 \value{
-A matrix of the infile
+NDVI value
 }
 \description{
 This function loads a file as a matrix. It assumes that the first column
