@@ -1,6 +1,6 @@
 #' Calculate NDVI
 #'
-#' This function caculates the normalized difference vegetation index.
+#' This function calculates the normalized difference vegetation index.
 #'
 #' @param b1 value or vector with reflectance in the first wavelenght
 #' @param b2 value or vector with reflectance in the second wavelenght
